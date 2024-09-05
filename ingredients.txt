@@ -1,0 +1,9 @@
+Flour
+Sugar
+Eggs
+Milk
+Butter
+Chocolate Chips
+Vanilla Extract
+Baking Powder
+Salt
